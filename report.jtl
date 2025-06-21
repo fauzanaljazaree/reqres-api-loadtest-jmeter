@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1750525329100,1309,Get Single User,200,OK,Test Thread 1 1-1,text,true,,1547,182,1,1,https://reqres.in/api/users/2,1301,0,1091
+1750525330892,470,Create User,201,Created,Test Thread 1 1-1,text,true,,1243,254,1,1,https://reqres.in/api/users,470,0,0
+1750525331421,465,Edit User,200,OK,Test Thread 1 1-1,text,true,,1243,263,1,1,https://reqres.in/api/user/2,465,0,0
+1750525331914,465,Delete User,204,No Content,Test Thread 1 1-1,,true,,1100,203,1,1,https://reqres.in/api/user/2,0,0,0
